@@ -22,7 +22,7 @@ public class HelloController {
 
     @GetMapping("/xiaoqinag66666666666666")
     public String xiaoqiang(){
-        return "hq";
+        return "hq12315121561215";
     }
 
     //周雨
