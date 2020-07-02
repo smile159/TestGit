@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootGitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootGitApplication.class, args);
+        SpringApplication.run(SpringbootGitApplication.class, args);zhouyu
     }
 
 }
