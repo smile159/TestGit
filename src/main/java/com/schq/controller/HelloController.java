@@ -23,4 +23,9 @@ public class HelloController {
         return "xiaoqiang";
     }
 
+    @GetMapping("/zhouyu")
+    public String zhouyu(){
+        return "zhouyu";
+    }
+
 }
