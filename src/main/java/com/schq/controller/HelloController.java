@@ -23,4 +23,9 @@ public class HelloController {
         return "xiaoqiang";
     }
 
+    @GetMapping("/xiaoqinag2")
+    public String xiaoqiang2(){
+        return "xiaoqiang2";
+    }
+
 }
