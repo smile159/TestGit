@@ -20,9 +20,9 @@ public class HelloController {
         return "Hello hello Git...!";
     }
 
-    @GetMapping("/xiaoqinag")
+    @GetMapping("/xiaoqinag66666666666666")
     public String xiaoqiang(){
-        return "xiaoqiang";
+        return "xiaoqiang6666666666666";
     }
 
     //周雨
