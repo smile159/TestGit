@@ -15,6 +15,6 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello(){
-        return "Hello Git!";
+        return "Hello hello Git!";
     }
 }
