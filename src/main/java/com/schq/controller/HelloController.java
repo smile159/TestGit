@@ -1,6 +1,7 @@
 package com.schq.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -33,4 +34,8 @@ public class HelloController {
     }
     //333333
 
+    @PostMapping("/哈哈哈")
+    public String xiaoqiang2(){
+        return "hahha";
+    }
 }
