@@ -17,4 +17,10 @@ public class HelloController {
     public String hello(){
         return "Hello hello Git...!";
     }
+
+    @GetMapping("/xiaoqinag")
+    public String xiaoqiang(){
+        return "xiaoqiang";
+    }
+
 }
