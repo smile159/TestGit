@@ -24,7 +24,7 @@ public class HelloController {
     }
 
     @GetMapping("/zhouyu")
-    public String zhouyu(){
+    public String zhouyu() {
         return "zhouyu";
     }
 
